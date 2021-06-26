@@ -32,3 +32,21 @@ Resume: I'm thinking of an executable. So if you're writing code in bash you're 
 Example, so if you're writing code in Bash you're in a bash runtime. If you're writing
 code in Ruby, you're in the Ruby runtime. So this is like it's own runtime, it's its own 
 environment that's self-encapsulated, you don't have to do anything.
+
+# 2- What can I create with Nodejs?
+Pretty much anything a scripting and server language like python or ruby can, but with Javascript.
+* Tooling (build, automation, etc)
+* API's (REST, Realtime, etc)
+* CDNs
+* Shareable libraries
+* Desktop Applications
+* IOT (Internet of Things, or IoT, is a system of interrelated computing devices)
+* Pretty much anything because node is on everything now.
+
+Note:
+What is a CDN?
+This is like a network of computers. Around some space, whether it's the world or a nation, or a consonant 
+whatever, it's a network of computers, and you host your assets on that network. So there for those assets
+are delivered to your customers as fast as possible.
+So if i'm making a request from Minnesota and there's a server in Minnesota, I will get my image from this server
+in Minnesota versus going to all the way to Oregon and Virginia.
